@@ -1,5 +1,5 @@
 # Excel-Project
-Analysis of this sheet
+## Analysis of this sheet
 A1----Gender Distribution:
 The pie chart labeled “Men vs Women” shows the gender distribution within the dataset. It appears to be fairly balanced, with a slight majority of one gender.
 ![image](https://github.com/priti77484kumari/Excel-Project/assets/114610180/083fbc70-e266-4721-95f7-2724a6249682)
